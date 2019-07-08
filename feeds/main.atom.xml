@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TimeCalc - Main</title><link href="https://maclarensstudio.github.io/TimeCalc/" rel="alternate"></link><link href="https://maclarensstudio.github.io/TimeCalc/feeds/main.atom.xml" rel="self"></link><id>https://maclarensstudio.github.io/TimeCalc/</id><updated>2019-07-07T12:00:00+02:00</updated><entry><title>TimeCalc++</title><link href="https://maclarensstudio.github.io/TimeCalc/Aplication%20support.html" rel="alternate"></link><published>2019-07-07T12:00:00+02:00</published><updated>2019-07-07T12:00:00+02:00</updated><author><name>Sergey Stasenko</name></author><id>tag:maclarensstudio.github.io,2019-07-07:/TimeCalc/Aplication support.html</id><summary type="html">&lt;p&gt;Short version for index and feeds&lt;/p&gt;</summary><content type="html">&lt;h2&gt;TimeCalc++ App V2.1&lt;/h2&gt;
+&lt;p&gt;Now available for Apple Watch
+This calculator is an excellent tool for the time calculations!
+It's very simple and and not overloaded with unnecessary options!
+If you need calculate time it's for you !!!&lt;/p&gt;
+&lt;p&gt;&lt;img alt="screenshot1" src="https://maclarensstudio.github.io/TimeCalc/scr1.jpg"&gt;
+&lt;img alt="screenshot1" src="https://maclarensstudio.github.io/TimeCalc/scr2.jpg"&gt;&lt;/p&gt;</content><category term="ios"></category><category term="app"></category></entry></feed>
